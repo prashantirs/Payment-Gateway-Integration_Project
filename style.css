@@ -168,6 +168,12 @@ h2 {
   }
 
   .donation-gif {
-    margin: -10% 0 10% 25%;
+    width: 15rem;
+    margin-left: 6.25rem;
+  }
+  .pay_button {
+    width:14rem;
+    padding-left: 2.5rem;
+    margin-right: 0;
   }
 }
